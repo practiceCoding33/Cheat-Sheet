@@ -1,0 +1,38 @@
+h1 {
+    background-color: rgb(60, 60, 165);
+    text-align: center;
+    padding: 10px;
+}
+
+h3 {
+    background-color: rgb(114, 114, 224);
+}
+
+h1, h3 {
+    font-family: Georgia;
+    color: white;
+}
+
+h3, thead, td, th, code {
+    padding: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+thead {
+    background-color: rgb(168, 164, 164);
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+code {
+    font-family: monospace;
+    background-color: gainsboro;
+}
